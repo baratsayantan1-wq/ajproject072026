@@ -1,0 +1,15 @@
+{
+	"name": "dfnewsb",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "106e4ffc-d478-4631-8b22-98f928b9434f",
+		"tenantId": "0a51e21a-b9b6-4b07-bb22-d3f6d5c2ef31"
+	}
+}
